@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
+//game3.c
 
 void clearScreen()
 {
@@ -147,7 +148,6 @@ printf("%d",swordsman.money);
                 //enemy attack
 
                 attackOfEnemy = 15+hardnessOfLimitlessDungeon*5;
-
 
 
 
