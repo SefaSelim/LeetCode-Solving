@@ -1,5 +1,5 @@
 bool isPalindrome(int x) {
-//beats % 60 ~ 70
+//beats % 80 ~ 100
 
 //if x negative returning false
     if (x<0)
