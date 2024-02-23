@@ -1,3 +1,5 @@
+//beats %100
+
 int lengthOfLastWord(char* s) {
 int point = 0,check = 0;
 
