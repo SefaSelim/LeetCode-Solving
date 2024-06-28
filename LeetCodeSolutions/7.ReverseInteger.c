@@ -1,4 +1,4 @@
-//
+//s
 long digitFinder(long x)
 {
     int digit = 0;
