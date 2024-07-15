@@ -1,3 +1,5 @@
+//Beats Runtime 100% 0ms / Memory 5.58% 7.80MB
+
 bool isPowerOfTwo(int n) {
     if (n == 1)
     return true;
